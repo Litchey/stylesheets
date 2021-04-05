@@ -1,0 +1,24 @@
+body {
+   background-color: #bdd2b6;
+}
+   hr {
+
+     border-style: none;
+     border-top-style: dotted;
+     border-color: green;
+     border-width: 6px;
+     width: 33%;
+
+   }
+
+   h1{
+     color: darkblue;
+   }
+
+   h2{
+     color: darkblue;
+   }
+
+   h3{
+     color: darkblue;
+   }
